@@ -4,7 +4,7 @@ env.hosts = ['162.243.214.212']
 env.user = 'sososeng'
 
 DIR = '/home/sososeng/django-exercises'
-VENV = 'source /home/sososeng/.virtualenvs/appfish/bin/activate && source SECRETS.ENV'
+VENV = 'source /home/sososeng/.virtualenvs/jdango-exercises/bin/activate && source SECRETS.ENV'
 
 def start ():
   with cd(DIR):
