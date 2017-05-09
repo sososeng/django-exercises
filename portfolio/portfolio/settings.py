@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
 '162.243.214.212',
+'sokhunseng.com',
 ]
 
 
